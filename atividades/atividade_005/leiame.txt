@@ -1,0 +1,18 @@
+								    TAREFA / AVALIAÇÃO CONTÍNUA
+
+ 	Faça o código fonte estruturado de um algoritmo que contenha um STRUCT com os atributos numéricos:  
+	Uma coluna para o tempo de trabalho em anos e outra coluna para o salário respectivo para tempo de trabalho. 
+	O usuário deverá digitar uma lista de 5 tempos de trabalho em uma determinada profissão hipotética e 5 salários correspondentes um para cada tempo de trabalho. 
+
+
+		Faça o menu com as opções para classificar a coluna tempo de trabalho, 
+		uma opção para listar  o  tempo  de  trabalho  e  seu  respectivo  salário  
+		e  uma  opção  para  que  o  usuário busque  na  lista  um  determinado  tempo  de  trabalho, 
+		quando  o  tempo  for  encontrado exiba  o  salário  correspondente. 
+		[ Tome  o  cuidado  de  quando  vocẽ  classificar  a  coluna tempo de trabalho, você deverá transportar o salário para mesma posição, 
+		já que cada tempo  de  trabalho  está  relacionado  a  um  determinado  salario. ]
+		
+		Utilize  o  algoritmo  de busca binária para buscar um determinado tempo de trabalho. 
+
+
+ ESTRUTURA DE DADOS - FATEC ZONA SUL.
